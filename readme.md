@@ -1,8 +1,9 @@
 #### 外网选课
 readme页面：https://jwxt-443.webvpn.jnu.edu.cn/Secure/PaiKeXuanKe/wfrm_Xk_ReadMeCn.aspx  
 选课页面：https://jwxt-443.webvpn.jnu.edu.cn/Secure/PaiKeXuanKe/wfrm_XK_XuanKe.aspx  
-**网址已废弃**
+**网址已废弃**  
 
+新系统：jwxk.jnu.edu.cn  
 #### 简单的js页面拉取，点击抢课代码
 (讲道理这代码是会出bug的)  
 ```
