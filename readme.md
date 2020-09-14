@@ -52,3 +52,27 @@ setTimeout(choiceprocess,12000)
 
 setTimeout(choiceprocess,1000);
 ```
+
+#### 中大研究生选课
+code from guolin zhang  
+```
+#!/bin/bash
+while :
+do
+result=$(curl chrome F12 点击选课copy curl请求头填入)
+    echo $result
+    success=$(echo ${result} | grep "选课成功")
+    echo $success
+    if [ "$success" =  "" ] 
+    then
+        echo fail
+    else
+        echo success
+        sleep 5
+        break
+    fi
+    sleep 1
+    echo sleeping
+done
+
+```
