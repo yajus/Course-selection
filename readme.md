@@ -54,7 +54,7 @@ setTimeout(choiceprocess,1000);
 ```
 
 #### 中大研究生选课
-code from guolin zhang  
+code from guolin zheng  
 ```
 #!/bin/bash
 while :
